@@ -3,6 +3,8 @@
 **EMAIL: renato.rivera@thoughtworks.com**
 **DATE: 22/09/2024**
 
+La base de datos debe ser cargada en la ruta: /src/farmers-protest-tweets-2021-2-4.json
+
 ## Descripción General
 Bienvenido al desafío para Ingenieros de Datos. En esta ocasión, tendrás la oportunidad de acercarte a parte de la realidad del rol, demostrar tus habilidades y conocimientos en procesamiento de datos con python y diferentes estructuras de datos.
 ​
